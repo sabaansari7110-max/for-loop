@@ -6,3 +6,19 @@ Requirements:
 Python 3.x
 <br>
 Any code editor (VS Code recommended)
+
+How To Run:
+<br>
+python filename.py (ex- for-loop1,..)
+
+What I Learned:
+<br>
+How for loop works in Python
+<br>
+Using range()
+<br>
+Applying conditions inside loops
+<br>
+Creating patterns
+<br>
+Improving logical thinking
