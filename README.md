@@ -32,12 +32,12 @@ python filename.py (ex- for-loop1,..)
 
 What I Learned:
 <br>
-How for loop works in Python
+1.How for loop works in Python
 <br>
-Using range()
+2.Using range()
 <br>
-Applying conditions inside loops
+3.Applying conditions inside loops
 <br>
-Creating patterns
+4.Creating patterns
 <br>
-Improving logical thinking
+5.Improving logical thinking
