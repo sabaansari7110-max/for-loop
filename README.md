@@ -8,7 +8,7 @@ A *for loop* in python repeats a block of code for each item in a *sequence* (li
 Its the most common way to iterate (go though items one by one) in python.
 <br>
 <br>
-**Key Idea**: "for eacg item in the collection, do something".
+**Key Idea**: "for each item in the collection, do something".
 <br>
 ##basic syntax
 <br>
