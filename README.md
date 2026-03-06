@@ -26,15 +26,15 @@ Any code editor (VS Code recommended)
 
 ## How To Run:
 1. Make sure Python is installed on your system.
-<br> 
+<br>
 2. Clone this repository or download the file.
-        https://github.com/sabaansari7110-max/for-loop.git     
+           https://github.com/sabaansari7110-max/for-loop.git     
    <br>
 3. Open terminal in the project folder.
 4. <br>
 5. Run the game:
 <br>
-python filename.py (ex- for-loop1,..)
+              python filename.py (ex- for-loop1,..)
 
 ## What I Learned:
 <br>
