@@ -14,13 +14,10 @@ Its the most common way to iterate (go though items one by one) in python.
 ## Basic syntax
 <br>
 '''python
-<br>
 for item in sequence:
 #code to run for each item (indented with 4 spaces)
-<br>
-print(item)       #Example action
-<br>
-
+print(item)       
+```
 ## Requirements:
 <br>
 Python 3.x
@@ -31,7 +28,7 @@ Any code editor (VS Code recommended)
 1. Make sure Python is installed on your system.
 <br> 
 2. Clone this repository or download the file.
-             
+        https://github.com/sabaansari7110-max/for-loop.git     
    <br>
 3. Open terminal in the project folder.
 4. <br>
