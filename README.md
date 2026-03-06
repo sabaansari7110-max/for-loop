@@ -10,7 +10,8 @@ Its the most common way to iterate (go though items one by one) in python.
 <br>
 **Key Idea**: "for each item in the collection, do something".
 <br>
-## basic syntax
+
+## Basic syntax
 <br>
 '''python
 <br>
@@ -27,6 +28,14 @@ Python 3.x
 Any code editor (VS Code recommended)
 
 ## How To Run:
+1. Make sure Python is installed on your system.
+<br> 
+2. Clone this repository or download the file.
+             
+   <br>
+3. Open terminal in the project folder.
+4. <br>
+5. Run the game:
 <br>
 python filename.py (ex- for-loop1,..)
 
