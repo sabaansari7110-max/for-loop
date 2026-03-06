@@ -25,9 +25,9 @@ Python 3.x
 Any code editor (VS Code recommended)
 
 ## How To Run:
-1. Make sure Python is installed on your system.
-<br>
+1. Make sure Python is installed on your system.<br>
 2. Clone this repository or download the file.
+<br>
            https://github.com/sabaansari7110-max/for-loop.git     
    <br>
 3. Open terminal in the project folder.
